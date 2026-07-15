@@ -93,15 +93,9 @@ Status         : Building projects.
 
 ---
 
+---
+
 # 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arkadyutibiswas&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkadyutibiswas&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
@@ -109,11 +103,7 @@ Status         : Building projects.
 
 </p>
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arkadyutibiswas&theme=algolia&no-frame=true&margin-w=15&row=1&column=6"/>
-
-</p>
+---
 
 ---
 # 🚀 Featured Projects
