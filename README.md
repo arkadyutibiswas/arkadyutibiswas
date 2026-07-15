@@ -91,10 +91,6 @@ Status         : Building projects.
 
 ---
 
----
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -102,9 +98,6 @@ Status         : Building projects.
 <img src="https://streak-stats.demolab.com?user=arkadyutibiswas&theme=github-dark-blue&hide_border=true"/>
 
 </p>
-
----
-
 ---
 # 🚀 Featured Projects
 
@@ -137,17 +130,6 @@ Status         : Building projects.
 🎵 Music
 💡 Exploring New Technologies
 ```
-
----
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arkadyutibiswas&theme=algolia&no-frame=true&margin-w=15&row=1"/>
-
-</p>
-
----
-
 <div align="center">
 
 > **"Turning ideas into code, one commit at a time."**
