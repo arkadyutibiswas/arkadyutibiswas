@@ -29,13 +29,7 @@
 
 <td width="40%" align="center">
 
-<pre>
-
-YOUR ASCII
-PORTRAIT
-GOES HERE
-
-</pre>
+<img src="assets/ascii.png" width="320" alt="Arkadyuti Biswas ASCII Portrait"/>
 
 </td>
 
